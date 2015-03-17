@@ -1,0 +1,1 @@
+Goal: Create a rules engine capable of running most card games.
